@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  This demo app is based on:
+  This <i>Redux + Redux-toolkit</i> demo app is based on:
 </h1>
 <hr />
 <p align="center">
