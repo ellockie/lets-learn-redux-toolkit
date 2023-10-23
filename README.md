@@ -29,14 +29,18 @@ A lot has changed in Redux since it was originally created. In this episode, Mar
 &nbsp;
 
 <hr />
-## How to run
+<h3 align="center">
+    How to run
+</h3>
 
 ```
 npm install
 npm run dev
 ```
 <hr />
-## More Information (re: original project)
+<h3 align="center">
+    More Information on the original project
+</h3>
 
 - [Watch this app get built live + see links and additional resources][episode]
 - [Follow _Learn With Jason_ on Twitch][twitch] to watch future episodes live
