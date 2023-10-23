@@ -2,7 +2,7 @@ import React from 'react'
 
 import {useAppDispatch, useAppSelector} from './app/hooks';
 import {incremented, amountAdded} from './features/counter/counter-slice';
-import {macUpdated, snUpdated} from "./features/deviceId/deviceIds-slice";
+import {macUpdated, snUpdated} from "./features/deviceIds/deviceIds-slice";
 
 import './App.css'
 

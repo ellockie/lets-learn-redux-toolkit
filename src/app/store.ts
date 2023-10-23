@@ -1,7 +1,7 @@
 import {configureStore} from '@reduxjs/toolkit';
 
 import {counterReducer} from '../features/counter/counter-slice';
-import {deviceIdsReducer} from "../features/deviceId/deviceIds-slice";
+import {deviceIdsReducer} from "../features/deviceIds/deviceIds-slice";
 
 
 export const store = configureStore({
